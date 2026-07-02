@@ -22,7 +22,7 @@ Dataset source: [Kaggle Face Detection Dataset by freak2209](https://www.kaggle.
 
 1. **Clone the Repository:**
    ```bash
-   git clone <your-repository-url>
+   git clone https://github.com/MANAST11/face-detection
    cd <repository-folder>
    ```
 
